@@ -2,7 +2,7 @@
   <li>👋 Hi, I’m Pryam !</li>
   <li>👀 I’m interested in programming, electronic and 3D printing</li>
   <li>🌱 I’m currently learning Flutter</li>
-  <li>📫 You can reach me at blue.zebra.a6@gmail.com</li>
+  <li>📫 You can reach me at pryam.dev@gmail.com</li>
 </ul>
 
 <!---
